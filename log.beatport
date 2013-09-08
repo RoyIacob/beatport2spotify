@@ -1,0 +1,314 @@
+
+started at: 2013-08-28 14:30:37
+got top100 songs
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Blurred+Lines+-+feat.+T.I.+++Pharrell+Will+Sparks+Remix
+251
+wrote page
+finished.
+
+started at: 2013-08-29 00:00:01
+got top100 songs
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Welcome+To+The+Jungle+featuring+Lil+Jon+-+Original+Mix
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Blame+Game
+251
+wrote page
+finished.
+
+started at: 2013-08-29 12:00:01
+got top100 songs
+new song: See Right Through
+new song: Tronco
+new song: Petroleum
+new song: What I Might Do
+new song: Paper Aeroplane
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Ringo
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Need+Somebody
+FOUND! spotify:track:62wo9Fyv0fbIbRkUdYZPC5 Tensnake|Fiora title: See Right Through
+found link for See Right Through
+FOUND! (radio) spotify:track:0kHGBjQbl2BLScC28AIDLz Kolombo|Ben Pearce title: What I Might Do
+found link for What I Might Do
+FOUND! spotify:track:39RK4EIysFMi9Ga9AnWEcd Francesco Rossi|Tom Staar title: Paper Aeroplane
+found link for Paper Aeroplane
+256
+wrote page
+finished.
+
+started at: 2013-08-30 00:00:01
+got top100 songs
+searching
+total songs: 256
+wrote page
+finished.
+
+started at: 2013-08-30 12:00:01
+got top100 songs
+new song: Ein Tag Am Strand
+new song: Bodylost
+searching
+FOUND! spotify:track:1F1fN1TGq6mpvlSEO9a63c Laidback Luke|Dimitri Vegas|Like Mike title: MORE
+found link for MORE
+FOUND! spotify:track:4r7d0FU7qMa4Go0Ac8Cdq6 TJR title: What's Up Suckaz
+found link for What's Up Suckaz
+FOUND! spotify:track:5ZqNBm9PFVSMaTF8hcXaRn Dimitri Vegas|Like Mike title: CHATTAHOOCHEE (Tomorrowland 2013 Anthem)
+found link for CHATTAHOOCHEE (Tomorrowland 2013 Anthem)
+FOUND! spotify:track:4ZvTQYZb8DVKyXT396xInr Gaiser title: Bodylost
+found link for Bodylost
+total songs: 258
+wrote page
+finished.
+
+started at: 2013-08-31 00:00:01
+got top100 songs
+searching
+FOUND! spotify:track:3KyEN0nze05egNeDvLwWej UMEK|Groovebox title: Cause And Effect
+found link for Cause And Effect
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Everybody+Let's+Go+-+Original+Mix
+total songs: 258
+wrote page
+finished.
+
+started at: 2013-08-31 12:00:01
+got top100 songs
+new song: Sushi Riddim
+new song: Nightflow
+new song: The Rift Valley
+new song: Suckerfree
+new song: No Eyes feat. Jaw
+searching
+FOUND! spotify:track:7BkHJj4eun9iuUDelzsMlL Vato Gonzalez title: Sushi Riddim
+found link for Sushi Riddim
+total songs: 263
+wrote page
+finished.
+
+started at: 2013-09-01 00:00:02
+got top100 songs
+searching
+total songs: 263
+wrote page
+finished.
+
+started at: 2013-09-01 12:00:01
+got top100 songs
+new song: GOOD LIFE
+new song: Rockin 'N' Rollin'
+new song: Immersion
+new song: Primative People
+new song: Koala
+new song: Electric Girl
+new song: Never Say Goodbye feat. Bright Lights
+searching
+FOUND! spotify:track:4S3lRu4l2tRyV1t0rV5UPn Ivan Gough|Jebu title: Kukatu
+found link for Kukatu
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Inner City|Kevin Saunderson|Matt Smallwood title: GOOD LIFE
+found link for GOOD LIFE
+FOUND! spotify:track:0POhisbZB8UuyTciJXFyU8 Fedde Le Grand|Jewelz & Scott Sparks title: Rockin 'N' Rollin'
+found link for Rockin 'N' Rollin'
+FOUND! spotify:track:654mOARWMQBvGGX9dcnTEb Omnia title: Immersion
+found link for Immersion
+FOUND! spotify:track:0yajrUdUJMa8qHMG99jV7U Mano Le Tough|Tale Of Us title: Primative People
+found link for Primative People
+FOUND! spotify:track:37JiBnN5MO229mhT9I05Pd Blasterjaxx|Scotty Lee title: Koala
+found link for Koala
+total songs: 270
+wrote page
+finished.
+
+started at: 2013-09-02 00:00:02
+got top100 songs
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Remove+-+Original+Mix
+total songs: 270
+wrote page
+finished.
+
+started at: 2013-09-02 12:00:02
+got top100 songs
+new song: Carnival De San Rafeal
+new song: Picture Picture
+new song: Cool Kids
+new song: Count On Me
+new song: GOOD LIFE
+searching
+FOUND! spotify:track:6TboqLYJs5Ykwsb80syrUo Deetron title: Count On Me
+found link for Count On Me
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Inner City|Kevin Saunderson|Pig&Dan title: GOOD LIFE
+found link for GOOD LIFE
+total songs: 275
+wrote page
+finished.
+
+started at: 2013-09-03 00:00:02
+got top100 songs
+new song: GOOD LIFE
+searching
+FOUND! spotify:track:6Fov34aYnGxPfcAOYEnv8j DVBBS|Borgeous title: Tsunami
+found link for Tsunami
+FOUND! spotify:track:6CtkCAMcvPEUzgkm6Bc9jI Eelke Kleijn title: Ein Tag Am Strand
+found link for Ein Tag Am Strand
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Matt Smallwood|Inner City|Kevin Saunderson title: GOOD LIFE
+found link for GOOD LIFE
+total songs: 276
+wrote page
+finished.
+
+started at: 2013-09-03 12:00:01
+got top100 songs
+new song: Project T
+new song: Aphrodite
+new song: GOOD LIFE
+new song: Colors feat. Tatu
+searching
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Pig&Dan|Inner City|Kevin Saunderson title: GOOD LIFE
+found link for GOOD LIFE
+total songs: 280
+wrote page
+finished.
+
+started at: 2013-09-04 00:00:02
+got top100 songs
+new song: Good Life
+new song: Good Life
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=You+Don't+Know+-+Original+Mix
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Inner City|Kevin Saunderson|Matt Smallwood title: Good Life
+found link for Good Life
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Inner City|Kevin Saunderson|Pig&Dan title: Good Life
+found link for Good Life
+total songs: 282
+wrote page
+finished.
+
+started at: 2013-09-04 12:00:01
+got top100 songs
+new song: Good Life
+new song: Man With The Red Face
+new song: If You Want
+new song: Rage-Aholics
+new song: Bigger Than Prince
+new song: Melbourne Bounce
+searching
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Matt Smallwood|Inner City|Kevin Saunderson title: Good Life
+found link for Good Life
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Man+With+The+Red+Face
+FOUND! (radio) spotify:track:5FDn1oWUD5BXL2HCfmCk2F Mark Knight|Funkagenda|Hardwell title: Man With The Red Face
+found link for Man With The Red Face
+FOUND! (radio) spotify:track:2jLvOTmtvAkhvNykBHTtmK Orkestrated|Big Nab|Fries & Shine|Deorro title: Melbourne Bounce
+found link for Melbourne Bounce
+total songs: 288
+wrote page
+finished.
+
+started at: 2013-09-05 00:00:01
+got top100 songs
+searching
+FOUND! spotify:track:4SYMv1YjUoQDDgiPWTdsC9 Andre Crom|Teenage Mutants title: You Don't Know
+found link for You Don't Know
+FOUND! spotify:track:1zjEN5sJzy1uKtKBs07VIl Mattew Jay title: Boreal Dust
+found link for Boreal Dust
+total songs: 288
+wrote page
+finished.
+
+started at: 2013-09-05 12:00:01
+got top100 songs
+new song: Surrender Feat. Mindshake
+new song: Good Life
+new song: TroubleMaker
+new song: Everything You've Done Before
+new song: Stop In My Mind
+new song: This Is How Fking Babies Are Made
+new song: Walking Back
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Live+For+The+Night+Explicit+Version+-+Original+Mix
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Technicolor
+FOUND! spotify:track:5RKrqs8uUunOh139WHkWBu Pig&Dan|Inner City|Kevin Saunderson title: Good Life
+found link for Good Life
+FOUND! spotify:track:6kAznS1zfoqH0j0WBtrcDH Dixon|Mano Le Tough title: Everything You've Done Before
+found link for Everything You've Done Before
+FOUND! spotify:track:1D0RqrcQMuKeUHjM2NZoCK KOMES title: This Is How Fking Babies Are Made
+found link for This Is How Fking Babies Are Made
+total songs: 295
+wrote page
+finished.
+
+started at: 2013-09-06 00:00:01
+got top100 songs
+searching
+total songs: 295
+wrote page
+finished.
+
+started at: 2013-09-06 12:00:01
+got top100 songs
+new song: Rulez
+new song: Shout That
+new song: BANANAS
+new song: Astronaut Dog
+searching
+FOUND! spotify:track:3CjGBusADiLaMEAoHETY0H Mercer title: Supreme
+found link for Supreme
+FOUND! spotify:track:59SPE64am4gIwqT1sc5zcV D.O.D title: BANANAS
+found link for BANANAS
+FOUND! spotify:track:7xWJf8jzRcZDj8NcwlOPQM French Kiddiz title: Astronaut Dog
+found link for Astronaut Dog
+total songs: 299
+wrote page
+finished.
+
+started at: 2013-09-07 00:00:01
+got top100 songs
+searching
+FOUND! spotify:track:1i6PK9eLqPP7yHtpXrlq3L John Tejada title: Somewhere
+found link for Somewhere
+FOUND! spotify:track:0SKdB5heumvkSuwXpN1zqO Veerus|Maxie Devine title: Remove
+found link for Remove
+total songs: 299
+wrote page
+finished.
+
+started at: 2013-09-07 12:00:01
+got top100 songs
+new song: I Am Somebody
+new song: Ruffline
+new song: Man With The Red Face
+new song: Sleepwalker
+new song: Falling
+new song: Wrong
+searching
+FOUND! spotify:track:0xSDeLV6oyz8hxKpoFz7Bh Nicky Romero|Krewella title: Legacy
+found link for Legacy
+FOUND! (radio) spotify:track:75iWJ4KOdygPJR0ESGfdFm Nicky Romero|Krewella|Vicetone title: Legacy
+found link for Legacy
+FOUND! spotify:track:2CTxvQna4SmvNCzcc0PlmF Sidney Charles title: Ruffline
+found link for Ruffline
+FOUND! (radio) spotify:track:5FDn1oWUD5BXL2HCfmCk2F Mark Knight|Funkagenda|Rene Amesz title: Man With The Red Face
+found link for Man With The Red Face
+total songs: 305
+wrote page
+finished.
+
+started at: 2013-09-08 00:00:02
+got top100 songs
+searching
+total songs: 305
+wrote page
+finished.
+
+started at: 2013-09-08 12:00:02
+got top100 songs
+new song: Anger
+new song: Transitons ''Bootleg Mix''
+searching
+error HTTP Error 502: Bad Gateway http://ws.spotify.com/search/1/track.json?q=Supersonic+-+Original+Mix
+FOUND! spotify:track:0k7uIKLA9tLh1oQcS4fe8W Kenny Larkin|La Fleur title: Nightflow
+found link for Nightflow
+FOUND! spotify:track:1pYxGaMHdkCyz8QrmGXSjJ Jeff Doubleu title: Suckerfree
+found link for Suckerfree
+total songs: 307
+wrote page
+finished.
+
